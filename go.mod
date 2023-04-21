@@ -1,6 +1,3 @@
-module huruiyi/greetings
+module github.com/huruiyi/greetings
 
 go 1.20
-
-
-//go mod init huruiyi/greetings

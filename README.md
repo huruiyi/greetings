@@ -1,3 +1,3 @@
 mkdir greetings
 cd greetings
-go mod init huruiyi/greetings
+go mod init github.com/huruiyi/greetings
